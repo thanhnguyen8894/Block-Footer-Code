@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+<div class="cms_block_collection_mobile">
+  <div class="collection_left">
+    <div class="img_banner">
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1676969748.png" style="width: 100%;">
+    </div>
+    <div class="img_product">
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1676969822.png" style="width: 155px;">
+    </div>
+    <div class="title">
+      <p> SWEET OUD </p>
+    </div>
+  </div>
+  <div class="collection_column2_mobile">
+    <p class="title">Collection Fine Fragrances</p>
+    <p class="text">They are favorites of many connoisseurs. We advise you to try and maybe you will find your aroma</p>
+  </div>
+  <div class="collection_column_mobile">
+    <div class="collection_row2_mobile">
+      <p class="title">MODERN ROSE</p>
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1677065312.png" style="width: 160px;">
+    </div>
+    <div class="collection_row3_mobile">
+      <p class="title">GARDENIA ROUGE</p>
+      <img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1677065347.png" style="width: 160px;">
+    </div>
+  </div>
+</div>
+</body>
+</html>
