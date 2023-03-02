@@ -1,0 +1,20 @@
+<div class="subcribe-block " style="padding: 50px 0;">
+<div class="subcribePageContainer " style="gap: 150px;">
+<div class="subcribePageContainerContentImage"><img src="https://master-be.snaptec.co/media/SnaptecBanner/banner_image1676965781.png" width="{690}" height="{400}/">
+<div class="contentImage">
+<div class="contentImageLeft">
+<h2>Our Showrooms</h2>
+<p>Visit Zohoor. The Home of Mixology</p>
+</div>
+<div class="contentImageRight">
+<p style="border-bottom: 1px solid #100D0A;">FIND NEAREST SHOP</p>
+</div>
+</div>
+</div>
+<div class="subcribePageBodyFour" style="width: 40%; text-align: left;">
+<div class="subcribePageBodyFourTitle" style="color: #02150a; width: 100%;">Subscribe to the mailing list</div>
+<div class="subcribePageBodyFourSubTitle" style="color: #02150a;">Sign up now to get a preview of the exclusive offers, product news and all the news about</div>
+<div class="subcribePageBodySubFour" style="text-align: right;"><input id="inputSubcribe" class="inputSubcribe" style="color: #02150a;" type="text" value="" placeholder="Sign up for regular news and inspiration"><button id="buttonSubcribe" class="buttonSubcribe" style="background-color: #433627; color: #ffffff;">SUBSCRIBE</button></div>
+</div>
+</div>
+</div>
